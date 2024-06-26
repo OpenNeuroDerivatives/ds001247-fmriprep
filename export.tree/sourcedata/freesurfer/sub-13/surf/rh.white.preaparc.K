@@ -1,1 +1,0 @@
-../../../../.git/annex/objects/xz/jp/MD5E-s601719--244cb0d0dc798d6d941ad09649be1d32.K/MD5E-s601719--244cb0d0dc798d6d941ad09649be1d32.K
