@@ -1,0 +1,16 @@
+Warning: Permanently added 'c102-043' (ECDSA) to the list of known hosts.
+WARNING (05/03/24 07:15:17): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.6284828.hostlist.Zj62cBlG to get hosts
+starting job on c102-043
+starting job on c104-021
+starting job on c104-031
+starting job on c104-142
+starting job on c104-214
+starting job on c105-023
+starting job on c105-063
+starting job on c105-133
+starting job on c105-171
+starting job on c105-173
+starting job on c106-073
+Terminated
+/opt/apps/intel19/impi19_0/remora/1.8.5/bin/aux/report: line 34: /scratch1/03201/jbwexler/openneuro_derivatives/derivatives/fmriprep/ds001247-fmriprep/remora_6284828/remora_timestamp.txt: Permission denied
